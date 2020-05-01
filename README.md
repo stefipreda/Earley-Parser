@@ -1,2 +1,2 @@
 # Earley-Parser
-An implementation of the Earley that uses a toy grammar
+An implementation of the Earley that uses an ambiguous toy grammar
